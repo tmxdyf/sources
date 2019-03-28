@@ -1,6 +1,6 @@
 {
 	"google": {
 		"googleSelector": "body > div.frame > div.page.tlid-homepage.homepage.translate-text > div.homepage-content-wrap > div.tlid-source-target.main-header > div.source-target-row > div.tlid-results-container.results-container > div.tlid-result.result-dict-wrapper > div.result.tlid-copy-target > div.text-wrap.tlid-copy-target > div > span.tlid-translation.translation > span",
-		"row": 0
+		"resultRow": 0
 	}
 }
